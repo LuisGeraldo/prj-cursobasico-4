@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calcula tu edad</string>
+    <string name="fecha_app">23/04/1999</string>
+    <string name="ingrese_fecha">Ingrese su fecha: </string>
+    <string name="btn_calcular">Calcular </string>
+    <string name="txt_ultimo_calculo">Ultimo calculo: </string>
+    <string name="ultimo_calculo">Ultimo calculo:  %1$s</string>
+    <string name="txt_diferencia_edad">Diferencia de edad: </string>
+    <string name="diferencia_edad">Diferencia de edad: %1$s</string>
+    <string name="no_diferencias">No hay diferenicas</string>
+</resources>
